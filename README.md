@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">👋 Hello! I'm <a href="https://urieldiazportafolio.netlify.app/">Uriel Diaz</a> 👋</h1>
+<h1 align="center">Hello! I'm <a href="https://urieldiazportafolio.netlify.app/">Uriel Diaz</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/ja3Dfud.png">
 
