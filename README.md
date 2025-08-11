@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 Hello! I'm <a href="https://urieldiazportafolio.netlify.app/">Uriel Diaz</a></h1>
 </div>
-<img src="https://imgur.com/a/nxNCxtq">
+<img src="https://imgur.com/ja3Dfud">
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
